@@ -1,0 +1,51 @@
+body{
+  background-color: white;
+  font-family: arial;
+  margin: 0;
+}
+nav {
+    float: left;
+    background-color: lightorange;
+}
+.navlink{
+  border: solid 2px orange;
+  margin: 1px;
+  list-style-type: none;
+}
+
+a: .navlink: hover{
+  background-color: grey;
+}
+img{
+  margin: 20px;
+}
+
+h1{
+  text-align: center;
+  margin-top: 0px;
+  font-family: 'Architects Daughter', cursive;
+
+
+}
+section{
+  margin-left: 200px;
+}
+header{
+  background-color: lightgreen;
+  height: 70px;
+  padding-top: 30px;
+}
+footer {
+text-align: center;
+}
+a{
+  color: hotpink;
+  display: block;
+  padding: 8px;
+  display: inline-block;
+  text-decoration: none;
+}
+ul{
+
+
+}

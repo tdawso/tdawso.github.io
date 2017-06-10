@@ -1,0 +1,81 @@
+*{
+    
+}
+#topheading{
+    text-align: center;
+    align-content: center;
+    font-family:Arial, sans-serif;
+    Font-size: 30px;
+    border: groove darkgray 5px;
+    background-color: lightorange ;
+    margin:20px;
+}
+a{
+    text-decoration:none;
+}
+h5 {
+    font-family: inherit, sans-serif;
+    text-decoration: none;
+    font-size:20px;
+    border: solid lightgray 4px;
+    background-color:azure;
+    text-align: center;
+}
+h5:hover{
+    text-decoration: none;
+    color:aqua;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border: groove lightgray 4px;
+}
+p{
+     text-align:center;
+    font-family: sans-serif;
+    margin: 10px
+}
+img {
+    border: groove darkgray 5px;
+   
+}
+h3{
+    font-family: Arial;
+    text-align:center;
+    text-decoration: underline;
+    font-size:2em;
+}
+h4{
+    font-family: Arial;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2em;
+}
+ul{
+    text-align: left;
+}
+.pagelink{
+        font-family: inherit, sans-serif;
+    text-decoration: none;
+    font-size:20px;
+}
+.pagelink:hover{
+        text-decoration: none;
+    color:aqua;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+nav{
+        text-align: center;
+    border: groove darkgray 5px;
+    background-color: lightorange;
+    margin:20px;
+}
+nav ul{
+    text-align: center;
+    list-style-type: none;
+}
+#shortcut{
+    text-decoration: none;
+    font-family: Arial;
+}
